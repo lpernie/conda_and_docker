@@ -1,0 +1,25 @@
+name: plus
+dependencies:
+  - jedi
+  - jupyter
+  - notebook
+  - pip
+  - pip:
+    - findspark
+    - matplotlib
+    - more-itertools
+    - numpy
+    - scikit-learn
+    - scipy
+    - pandas
+    - pytest
+    - pytest-filter-subpackage
+    - pytest-cov
+    - pyspark==3.0.1
+    - shap
+    - simplejson
+    - tensorflow
+    - xgboost
+    - jupytext
+    - jupyterlab
+
