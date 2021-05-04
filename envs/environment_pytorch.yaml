@@ -1,4 +1,4 @@
-name: plus2
+name: pytorch
 channels:
   - defaults
 dependencies:
@@ -281,4 +281,3 @@ dependencies:
     - zope-interface==5.2.0
     - zope-lifecycleevent==4.3
     - zope-proxy==4.3.5
-prefix: /Users/lpernie/opt/miniconda3/envs/plus2
